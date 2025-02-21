@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D playerRigidbody;
 
     public Vector2 moveDirection;
-    private float moveSpeed = 2.0f;
+    private float moveSpeed = 5.0f;
 
     // Start is called before the first frame update
     void Start()

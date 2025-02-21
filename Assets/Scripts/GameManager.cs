@@ -9,9 +9,13 @@ public class Singleton : MonoBehaviour
     // When a new scene is loaded the object with this script (and all it's children) will be carried into the new scene.
     // allows you to carry main functionality objects between scenes
 
+
     static Singleton Instance;
 
-    public 
+    public GameStateManager gameStateRef;
+    public UIManager UIManagerRef;
+    public InputManager inputManagerRef;
+    public LevelManager levelManagerRef;
 
     void Start()
     {

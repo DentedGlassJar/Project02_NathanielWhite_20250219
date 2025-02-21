@@ -3813,7 +3813,7 @@ GameObject:
   - component: {fileID: 1303731247}
   - component: {fileID: 1303731249}
   m_Layer: 0
-  m_Name: TriggerSceneChange_West
+  m_Name: TriggerSceneChange_Map2_West
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3903,7 +3903,7 @@ GameObject:
   - component: {fileID: 1714801962}
   - component: {fileID: 1714801961}
   m_Layer: 0
-  m_Name: TriggerSceneChange_North
+  m_Name: TriggerSceneChange_Map2_North
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
