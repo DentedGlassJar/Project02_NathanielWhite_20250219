@@ -27,4 +27,11 @@ public class Gizmo_TriggerSceneChange : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Player")
+        {
+
+        }
+    }
 }
